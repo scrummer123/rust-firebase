@@ -121,10 +121,7 @@ checksum = "d36492546b6af1463394d46f0c834346f31548646f6ba10849802c9c9a27ac33"
 name = "rust-firebase"
 version = "0.1.0"
 dependencies = [
- "base64",
  "frank_jwt",
- "openssl",
- "serde",
  "serde_json",
 ]
 
